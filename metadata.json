@@ -1,0 +1,8 @@
+{
+  "name": "Halal Keeps — HaCeRa Readiness Assessment",
+  "description": "Interactive halal readiness assessment prototype for food businesses. Evaluate compliance, discover gap analyses, receive personalized AI recommendations, and iteratively improve halal readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
